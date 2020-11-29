@@ -56,7 +56,6 @@ while Playing == 1:
      print(" ")
      time.sleep(0.5)
      print("3.")
-    #looking for some simple text game ideas
      OPC = input("which one >>")
      if OPC == "1":
          loading(1,2)
